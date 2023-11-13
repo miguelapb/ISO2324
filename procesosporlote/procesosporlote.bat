@@ -1,6 +1,7 @@
 @echo off
 
-REM Miguel Parada Bandera
+REM Comandos por lote para ejecutar la creación de los directorios
+REM Nombre: Miguel Parada Bandera
 REM Fecha: 13/11/2023
 
 mkdir %USERPROFILE%\dam %USERPROFILE%\daw %USERPROFILE%\asir %USERPROFILE%\ceti %USERPROFILE%\smr
